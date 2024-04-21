@@ -53,4 +53,5 @@ ul {
 
 li {
     margin-bottom: 8px; /* Spacing between list items */
+    font-size: 18px; /* Match font size of paragraphs */
 }
